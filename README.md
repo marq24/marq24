@@ -9,4 +9,4 @@ I am not active on any social media - IMHO just a waste of time. If you want to 
 ### In the case you want...
 [!["PayPal"](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png)](https://paypal.me/marq24)
 
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-blue.png)](https://www.buymeacoffee.com/marquardt24)
+[<img style="width: 180px !important;" alt="Buy Me A Coffee" width="180px" src="https://cdn.buymeacoffee.com/buttons/default-blue.png">](https://www.buymeacoffee.com/marquardt24)
