@@ -10,7 +10,3 @@ I am not active on any social media - IMHO just a waste of time. If you want to 
 [!["PayPal"](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png)](https://paypal.me/marq24)
 
 [<img style="width: 180px !important;" alt="Buy Me A Coffee" width="180px" src="https://cdn.buymeacoffee.com/buttons/default-blue.png">](https://www.buymeacoffee.com/marquardt24)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marq24&count_private=true)
