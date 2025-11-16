@@ -1,10 +1,10 @@
 ### Hi-Ho 
 Here is just another Grumpy-Old-Men - cycling, hiking & coding
 
-#### How to contact me?
+### How to contact me?
 I am __not active__ on any social media - IMHO just a _waste of time_. If you want to get in touch, eMail is just fine.
 
-#### Have a project related question ot suggestion?
+### Have a project related question ot suggestion?
 Please don't eMail me, asking: "_Will this work for me/my scenario?_" - I don't have a crystal ball.
 
 There is pretty much __documented__ in the projects and I have invested quite an amount of time writing this. Please be so kind and spend some time _reading_ it - TIA.
