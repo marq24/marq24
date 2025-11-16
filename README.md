@@ -7,7 +7,7 @@ I am __not active__ on any social media - IMHO just a _waste of time_. If you wa
 ### How to support me?
 [![PayPal](https://img.shields.io/badge/paypal-me-blue.svg?style=for-the-badge&logo=paypal&logoColor=ccc)](https://paypal.me/marq24) [![BuyMeCoffee](https://img.shields.io/badge/buy%20me%20a-coffee-blue.svg?style=for-the-badge&logo=buymeacoffee&logoColor=ccc)](https://www.buymeacoffee.com/marquardt24) [![GitHubSponsor](https://img.shields.io/github/sponsors/marq24?style=for-the-badge&logo=github&logoColor=ccc&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fmarq24&label=Sponsors)](https://github.com/sponsors/marq24)
 
-### Have a project related question ot suggestion?
+### Have a project/repository related question or suggestion?
 Please don't eMail me, asking: "_Will this work for me/my scenario?_" - I don't have a crystal ball.
 
 There is pretty much __documented__ in the projects and I have invested quite an amount of time writing this. Please be so kind and spend some time _reading_ it - TIA.
