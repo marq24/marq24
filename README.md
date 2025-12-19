@@ -5,7 +5,7 @@ Here is just another Grumpy-Old-Men - cycling, hiking & coding
 I am __not active__ on any social media - IMHO just a _waste of time_. If you want to get in touch, eMail is just fine.
 
 ### How to support me?
-[![PayPal](https://img.shields.io/badge/paypal-me-blue.svg?style=for-the-badge&logo=paypal&logoColor=ccc)](https://paypal.me/marq24) [![BuyMeCoffee](https://img.shields.io/badge/buy%20me%20a-coffee-blue.svg?style=for-the-badge&logo=buymeacoffee&logoColor=ccc)](https://www.buymeacoffee.com/marquardt24) [![BuyMeCoffee2](https://img.shields.io/badge/sponsor-coffee-blue.svg?style=for-the-badge&logo=buymeacoffee&logoColor=ccc)](https://www.buymeacoffee.com/marquardt24/membership)
+[![PayPal](https://img.shields.io/badge/paypal-me-blue.svg?style=for-the-badge&logo=paypal&logoColor=ccc)](https://paypal.me/marq24) [![BuyMeCoffee](https://img.shields.io/badge/buy%20me%20a-coffee-blue.svg?style=for-the-badge&logo=buymeacoffee&logoColor=ccc)](https://www.buymeacoffee.com/marquardt24) [![BuyMeCoffee2](https://img.shields.io/badge/coffee-subscription-blue.svg?style=for-the-badge&logo=buymeacoffee&logoColor=ccc)](https://www.buymeacoffee.com/marquardt24/membership)
  [![GitHubSponsor](https://img.shields.io/github/sponsors/marq24?style=for-the-badge&logo=github&logoColor=ccc&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fmarq24&label=Sponsors)](https://github.com/sponsors/marq24)
 
 ### Have a project/repository related question or suggestion?
