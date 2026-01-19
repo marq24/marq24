@@ -10,38 +10,38 @@ I am __not active__ on any social media - IMHO just a _waste of time_. If you wa
 
 ### Active supported Home Assistant Integrations (in order of release)
 <!--
-- <img src="https://brands.home-assistant.io/senec/logo.png" style="align:bottom;height:14px;">&nbsp;[Senec (v2, v3, v4 & WebAPI)](https://github.com/marq24/ha-senec-v3)
-- <img src="https://brands.home-assistant.io/waterkotte_heatpump/logo.png" style="align:bottom;height:14px;">&nbsp;[Waterkotte Heatpumps](https://github.com/marq24/ha-waterkotte)
-- <img src="https://brands.home-assistant.io/tibber_local/logo.png" style="align:bottom;height:14px">&nbsp;[Tibber Pulse Local](https://github.com/marq24/ha-tibber-pulse-local)
-- <img src="https://brands.home-assistant.io/goecharger_api2/logo.png" style="align:bottom;height:14px">&nbsp;[goeCharger & goeController](https://github.com/marq24/ha-goecharger-api2)
-- <img src="https://brands.home-assistant.io/evcc_intg/logo.png" style="align:bottom;height:14px">&nbsp;[evcc☀️🚘- Solar Charging](https://github.com/marq24/ha-evcc)
-- <img src="https://brands.home-assistant.io/fordpass/logo.png" style="align:bottom;height:14px">&nbsp;[FordPass +2025](https://github.com/marq24/ha-fordpass)
-- <img src="https://brands.home-assistant.io/fordconnect_query/logo.png" style="align:bottom;height:14px">&nbsp;[FordConnect Query](https://github.com/marq24/ha-fordconnect-query)
-- <img src="https://brands.home-assistant.io/bosch_ebike/logo.png" style="align:bottom;height:14px">&nbsp;[Bosch eBike Flow (Generation 4)](https://github.com/marq24/ha-bosch-ebike-flow)
+- <img src="https://brands.home-assistant.io/senec/icon.png" style="align:bottom;height:14px;">&nbsp;[Senec (v2, v3, v4 & WebAPI)](https://github.com/marq24/ha-senec-v3)
+- <img src="https://brands.home-assistant.io/waterkotte_heatpump/icon.png" style="align:bottom;height:14px;">&nbsp;[Waterkotte Heatpumps](https://github.com/marq24/ha-waterkotte)
+- <img src="https://brands.home-assistant.io/tibber_local/icon.png" style="align:bottom;height:14px">&nbsp;[Tibber Pulse Local](https://github.com/marq24/ha-tibber-pulse-local)
+- <img src="https://brands.home-assistant.io/goecharger_api2/icon.png" style="align:bottom;height:14px">&nbsp;[goeCharger & goeController](https://github.com/marq24/ha-goecharger-api2)
+- <img src="https://brands.home-assistant.io/evcc_intg/icon.png" style="align:bottom;height:14px">&nbsp;[evcc☀️🚘- Solar Charging](https://github.com/marq24/ha-evcc)
+- <img src="https://brands.home-assistant.io/fordpass/icon.png" style="align:bottom;height:14px">&nbsp;[FordPass +2025](https://github.com/marq24/ha-fordpass)
+- <img src="https://brands.home-assistant.io/fordconnect_query/icon.png" style="align:bottom;height:14px">&nbsp;[FordConnect Query](https://github.com/marq24/ha-fordconnect-query)
+- <img src="https://brands.home-assistant.io/bosch_ebike/icon.png" style="align:bottom;height:14px">&nbsp;[Bosch eBike Flow (Generation 4)](https://github.com/marq24/ha-bosch-ebike-flow)
 -->
 <table>
   <tr>
-    <td width="120" valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/senec/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td width="65" valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/senec/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td width="300"><a href="https://github.com/marq24/ha-senec-v3">Senec (v2, v3, v4 & WebAPI)</a></td>
-    <td width="120" valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/waterkotte_heatpump/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td width="65" valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/waterkotte_heatpump/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td width="300"><a href="https://github.com/marq24/ha-waterkotte">Waterkotte Heatpumps</a></td>
   </tr>
   <tr>
-    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/tibber_local/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/tibber_local/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td><a href="https://github.com/marq24/ha-tibber-pulse-local">Tibber Pulse Local</a></td>
-    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/goecharger_api2/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/goecharger_api2/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td><a href="https://github.com/marq24/ha-goecharger-api2">goeCharger & goeController</a></td>
   </tr>
   <tr>
-    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/evcc_intg/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/evcc_intg/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td><a href="https://github.com/marq24/ha-evcc">evcc☀️🚘- Solar Charging</a></td>
-    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/fordpass/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/fordpass/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td><a href="https://github.com/marq24/ha-fordpass">FordPass +2025</a></td>
   </tr>
   <tr>
-    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/fordconnect_query/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/fordconnect_query/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td><a href="https://github.com/marq24/ha-fordconnect-query">FordConnect Query</a></td>
-    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/bosch_ebike/logo.png" style="align:bottom;height:20px;"></sub></td>
+    <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/bosch_ebike/icon.png" style="align:bottom;height:25px;"></sub></td>
     <td><a href="https://github.com/marq24/ha-bosch-ebike-flow">Bosch eBike Flow (Generation 4)</a></td>
   </tr>
 </table>
