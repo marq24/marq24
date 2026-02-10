@@ -24,10 +24,10 @@ I am __not active__ on any social media - IMHO just a _waste of time_. If you wa
 <table>
   <tr>
     <td width="65" valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/senec/icon.png" style="align:bottom;height:25px;"></sub></td>
-    <td width="300"><a href="https://github.com/marq24/ha-senec-v3">Senec (v2, v3, v4 & WebAPI)</a></td>
+    <td width="265"><a href="https://github.com/marq24/ha-senec-v3">Senec (v2, v3, v4 & WebAPI)</a></td>
     <td><sub><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=home-assistant&logoColor=eee&label=%20&cacheSeconds=15600&url=https://analytics.home-assistant.io/custom_integrations.json&query=$.senec.total"></sub></td>
     <td width="65" valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/waterkotte_heatpump/icon.png" style="align:bottom;height:25px;"></sub></td>
-    <td width="300"><a href="https://github.com/marq24/ha-waterkotte">Waterkotte Heatpumps</a></td>
+    <td width="265"><a href="https://github.com/marq24/ha-waterkotte">Waterkotte Heatpumps</a></td>
     <td><sub><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=home-assistant&logoColor=eee&label=%20&cacheSeconds=15600&url=https://analytics.home-assistant.io/custom_integrations.json&query=$.waterkotte_heatpump.total"></sub></td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ I am __not active__ on any social media - IMHO just a _waste of time_. If you wa
     <td><a href="https://github.com/marq24/ha-fordconnect-query">FordConnect Query</a></td>
     <td><sub><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=home-assistant&logoColor=eee&label=%20&cacheSeconds=15600&url=https://analytics.home-assistant.io/custom_integrations.json&query=$.fordconnect_query.total"></sub></td>
     <td valign="bottom" align="center"><sub><img src="https://brands.home-assistant.io/bosch_ebike/icon.png" style="align:bottom;height:25px;"></sub></td>
-    <td><a href="https://github.com/marq24/ha-bosch-ebike-flow">Bosch eBike Flow (Generation 4)</a></td>
+    <td><a href="https://github.com/marq24/ha-bosch-ebike-flow">Bosch&nbsp;eBike&nbsp;Flow&nbsp;(Generation&nbsp;4)</a></td>
     <td><sub><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=home-assistant&logoColor=eee&label=%20&cacheSeconds=15600&url=https://analytics.home-assistant.io/custom_integrations.json&query=$.bosch_ebike.total"></sub></td>
   </tr>
 </table>
