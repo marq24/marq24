@@ -1,5 +1,5 @@
 ### Hi-Ho 
-Here is just another Grumpy-Old-Men - cycling, hiking & coding
+Here is just another Grumpy-Old-Men - cycling, hiking & coding <sub>![GitHub User's stars](https://img.shields.io/github/stars/marq24)</sub>
 
 ### How to contact me?
 I am __not active__ on any social media - IMHO just a _waste of time_. If you want to get in touch, eMail is just fine.
@@ -73,3 +73,8 @@ Please don't eMail me, asking: "_Will this work for me/my scenario?_" - I don't 
 There is pretty much __documented__ in the projects and I have invested quite an amount of time writing this. Please be so kind and spend some time _reading_ it - TIA.
 
 Of course you are invited to ask your question in the _discussion_ section of each of my projects. Typically I will reply in less then 24h. Nevertheless, please understand that I am not able to provide support _on individual level_ via eMail. Probably I will ask you to get in contact with me (in case of an existing _issue_).
+
+
+<--
+![GitHub User's stars](https://img.shields.io/github/stars/marq24?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBzdHlsZT0iZmlsbDojY2NjY2NjIiBkPSJNOCAuMjVhLjc1Ljc1IDAgMCAxIC42NzMuNDE4bDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAgMSAuNDE2IDEuMjc5bC0zLjA0NiAyLjk3LjcxOSA0LjE5MmEuNzUxLjc1MSAwIDAgMS0xLjA4OC43OTFMOCAxMi4zNDdsLTMuNzY2IDEuOThhLjc1Ljc1IDAgMCAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwIDEgLjQxNi0xLjI4bDQuMjEtLjYxMUw3LjMyNy42NjhBLjc1Ljc1IDAgMCAxIDggLjI1Wm0wIDIuNDQ1TDYuNjE1IDUuNWEuNzUuNzUgMCAwIDEtLjU2NC40MWwtMy4wOTcuNDUgMi4yNCAyLjE4NGEuNzUuNzUgMCAwIDEgLjIxNi42NjRsLS41MjggMy4wODQgMi43NjktMS40NTZhLjc1Ljc1IDAgMCAxIC42OTggMGwyLjc3IDEuNDU2LS41My0zLjA4NGEuNzUuNzUgMCAwIDEgLjIxNi0uNjY0bDIuMjQtMi4xODMtMy4wOTYtLjQ1YS43NS43NSAwIDAgMS0uNTY0LS40MUw4IDIuNjk0WiI+PC9wYXRoPjwvc3ZnPg==&logoColor=ccc&label=Stars&cacheSeconds=15600)
+-->
