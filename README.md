@@ -1,5 +1,5 @@
 ### Hi-Ho 
-Here is just another Grumpy-Old-Men - cycling, hiking & coding <sub>[![GitHub User's stars](https://img.shields.io/github/stars/marq24?link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fmarq24)]((https://github.com/sponsors/marq24))</sub>
+Here is just another Grumpy-Old-Men - cycling, hiking & coding <sub>[![GitHub User's stars](https://img.shields.io/github/stars/marq24?link=https%3A%2F%2Fgithub.com%2Fsponsors%2Fmarq24)](https://github.com/sponsors/marq24)</sub>
 
 ### How to contact me?
 I am __not active__ on any social media - IMHO just a _waste of time_. If you want to get in touch, eMail is just fine.
